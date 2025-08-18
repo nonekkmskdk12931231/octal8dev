@@ -194,21 +194,9 @@ Octal includes the ODT [octal developer team], which in turn includes specialist
           <img src="https://img.shields.io/badge/Email-Contact%20Us-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
-        <a href="https://octal.company">
-          <img src="https://img.shields.io/badge/Website-Visit%20Us-36BCF7?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="tel:+1234567890">
-          <img src="https://img.shields.io/badge/Phone-Call%20Now-00C851?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://calendly.com/octal">
-          <img src="https://img.shields.io/badge/Schedule-Meeting-9C27B0?style=for-the-badge&logo=calendar&logoColor=white" alt="Schedule"/>
+        <a href="https://t.me/theknyazzev">
+          <img src="https://img.shields.io/badge/Telegram-Contact%20Us-9C27B0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
         </a>
       </td>
     </tr>
@@ -218,7 +206,7 @@ Octal includes the ODT [octal developer team], which in turn includes specialist
 ---
 
 <div align="center">
-  <h3>🔹 OCTAL - Where Innovation Meets Excellence 🔹</h3>
+  <h3>OCTAL - Where Innovation Meets Excellence</h3>
   <p><em>"Transforming ideas into digital reality, one solution at a time."</em></p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
