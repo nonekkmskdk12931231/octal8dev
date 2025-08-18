@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🪼 OCTAL</h1>
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Innovative+Software+Solutions;Digital+Transformation+Experts;Enterprise+Technology+Partners;Custom+Development+Specialists" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=3A54D7&center=true&vCenter=true&width=600&lines=Innovative+Software+Solutions;Digital+Transformation+Experts;Enterprise+Technology+Partners;Custom+Development+Specialists" alt="Typing SVG" />
   </div>
 </div>
 
