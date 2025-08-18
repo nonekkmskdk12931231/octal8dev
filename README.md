@@ -1,19 +1,19 @@
 <div align="center">
-  <h1>OCTAL</h1>
-  <h2>Software Excellence & Progressive Design</h2>
+  <h1>🪼 OCTAL</h1>
+  <h2>Software Excellence & Design</h2>
   
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=1A212B&center=true&vCenter=true&width=600&lines=Innovative+Software+Solutions;Digital+Transformation+Experts;Enterprise+Technology+Partners;Custom+Development+Specialists" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Innovative+Software+Solutions;Digital+Transformation+Experts;Enterprise+Technology+Partners;Custom+Development+Specialists" alt="Typing SVG" />
   </div>
 </div>
 
 ---
 
-## 🚀 About OCTAL
+## 🚀 About the OCTAL team
 
-Leading the digital revolution with cutting-edge software solutions and innovative technologies. OCTAL specializes in delivering enterprise-grade applications, custom software development, and comprehensive digital transformation services for businesses worldwide.
+Octal includes the ODT [octal developer team], which in turn includes specialists from various fields, ranging from design to AI developers, which ensures the diversity of products. 
 
-**🎯 Our Mission:** *Empowering businesses through innovative technology solutions that drive growth and digital excellence.*
+**🎯 Our Mission:** *To empower your business with innovative technological solutions that promote the growth and improvement of digital technologies.*
 
 ---
 
