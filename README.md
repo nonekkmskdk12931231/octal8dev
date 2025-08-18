@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-Octal includes the ODT [octal developer team], which in turn includes specialists from various fields, ranging from design to AI developers, which ensures the diversity of products. \n
+Octal includes the ODT [octal developer team], which in turn includes specialists from various fields, ranging from design to AI developers, which ensures the diversity of products. <br>
 
 **Our Mission:** *To empower your business with innovative technological solutions that promote the growth and improvement of digital technologies.*
 </div>
