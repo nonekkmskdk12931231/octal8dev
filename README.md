@@ -8,48 +8,49 @@
 ---
 
 ## About the OCTAL team
-
+<div align="center">
 Octal includes the ODT [octal developer team], which in turn includes specialists from various fields, ranging from design to AI developers, which ensures the diversity of products. 
 
 **Our Mission:** *To empower your business with innovative technological solutions that promote the growth and improvement of digital technologies.*
+</div>
 
 ---
 
-## 💼 Core Services
+## Core Services
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/web-design.png" alt="Web Development"/><br>
-        <h3>🌐 Web Development</h3>
+        <h3>Web Development</h3>
         <p>Custom web applications, progressive web apps, and responsive designs</p>
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/smartphone.png" alt="Mobile Development"/><br>
-        <h3>📱 Mobile Solutions</h3>
+        <h3>Mobile Solutions</h3>
         <p>Native and cross-platform mobile applications for iOS and Android</p>
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/cloud.png" alt="Cloud Services"/><br>
-        <h3>☁️ Cloud Integration</h3>
+        <h3>Cloud Integration</h3>
         <p>Scalable cloud infrastructure and microservices architecture</p>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI Solutions"/><br>
-        <h3>🤖 AI & Machine Learning</h3>
+        <h3>AI</h3>
         <p>Intelligent automation and data-driven insights</p>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/96/000000/security-checked.png" alt="Security"/><br>
-        <h3>🔒 Cybersecurity</h3>
+        <h3>Cybersecurity</h3>
         <p>Advanced security solutions and compliance frameworks</p>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/96/000000/business.png" alt="Consulting"/><br>
-        <h3>💡 Digital Consulting</h3>
+        <h3>Digital Consulting</h3>
         <p>Strategic technology planning and digital transformation</p>
       </td>
     </tr>
