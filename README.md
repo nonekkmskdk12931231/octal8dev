@@ -181,9 +181,8 @@ Octal includes the ODT [octal developer team], which in turn includes specialist
 
 ---
 
-##Partnership & Contact
-
 <div align="center">
+  <h1>Partnership & Contact</h1>  
   <h3>Ready to Transform Your Business?</h3>
   <p><em>Let's build the future together with innovative technology solutions</em></p>
   
