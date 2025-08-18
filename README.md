@@ -11,9 +11,8 @@ Octal includes the ODT [octal developer team], which in turn includes specialist
 
 ---
 
-## Core Services
-
 <div align="center">
+  <h1>Core Services</h1>
   <table>
     <tr>
       <td align="center" width="33%">
