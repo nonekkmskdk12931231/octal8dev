@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
   <h1>OCTAL</h1>
   <h2>Software Excellence & Progressive Design</h2>
   
