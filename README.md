@@ -1,9 +1,9 @@
-<div align="center">
-  <h1>🔹 OCTAL 🔹</h1>
-  <h2>Digital Innovation • Software Excellence • Technology Solutions</h2>
+<div>
+  <h1>OCTAL</h1>
+  <h2>Software Excellence & Progressive Design</h2>
   
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Innovative+Software+Solutions;Digital+Transformation+Experts;Enterprise+Technology+Partners;Custom+Development+Specialists" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=FF6B35&center=false&vCenter=true&width=600&lines=Innovative+Software+Solutions;Digital+Transformation+Experts;Enterprise+Technology+Partners;Custom+Development+Specialists" alt="Typing SVG" />
   </div>
 </div>
 
