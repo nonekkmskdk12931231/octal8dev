@@ -181,52 +181,7 @@ Octal includes the ODT [octal developer team], which in turn includes specialist
 
 ---
 
-## 🏆 Industries We Serve
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="25%">
-        🏥<br><b>Healthcare</b><br>
-        <sub>Digital health solutions</sub>
-      </td>
-      <td align="center" width="25%">
-        🏦<br><b>FinTech</b><br>
-        <sub>Financial technology</sub>
-      </td>
-      <td align="center" width="25%">
-        🛒<br><b>E-Commerce</b><br>
-        <sub>Online retail platforms</sub>
-      </td>
-      <td align="center" width="25%">
-        🎓<br><b>Education</b><br>
-        <sub>Learning management systems</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        🏭<br><b>Manufacturing</b><br>
-        <sub>Industrial automation</sub>
-      </td>
-      <td align="center">
-        🚗<br><b>Automotive</b><br>
-        <sub>Connected vehicle solutions</sub>
-      </td>
-      <td align="center">
-        🏠<br><b>Real Estate</b><br>
-        <sub>Property management systems</sub>
-      </td>
-      <td align="center">
-        🎮<br><b>Gaming</b><br>
-        <sub>Interactive entertainment</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🤝 Partnership & Contact
+##Partnership & Contact
 
 <div align="center">
   <h3>Ready to Transform Your Business?</h3>
@@ -235,18 +190,8 @@ Octal includes the ODT [octal developer team], which in turn includes specialist
   <table>
     <tr>
       <td align="center">
-        <a href="mailto:contact@octal.company">
+        <a href="mailto:theknyazzev@gmail.com">
           <img src="https://img.shields.io/badge/Email-Contact%20Us-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/company/octal">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/octal_company">
-          <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
         </a>
       </td>
     </tr>
