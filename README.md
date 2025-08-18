@@ -5,8 +5,6 @@
   </div>
 </div>
 
----
-
 <div align="center">
 Octal includes the ODT [octal developer team], which in turn includes specialists from various fields, ranging from design to AI developers, which ensures the diversity of products. 
 
