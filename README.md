@@ -7,11 +7,11 @@
 
 ---
 
-## 🚀 About the OCTAL team
+## About the OCTAL team
 
 Octal includes the ODT [octal developer team], which in turn includes specialists from various fields, ranging from design to AI developers, which ensures the diversity of products. 
 
-**🎯 Our Mission:** *To empower your business with innovative technological solutions that promote the growth and improvement of digital technologies.*
+**Our Mission:** *To empower your business with innovative technological solutions that promote the growth and improvement of digital technologies.*
 
 ---
 
