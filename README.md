@@ -181,33 +181,6 @@ Octal includes the ODT [octal developer team], which in turn includes specialist
 
 ---
 
-## 📊 Company Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Projects-500+-FF6B35?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-        <br><sub>Successfully Delivered</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Clients-200+-36BCF7?style=for-the-badge&logo=handshake&logoColor=white"/>
-        <br><sub>Satisfied Worldwide</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Experience-8%2B%20Years-00C851?style=for-the-badge&logo=calendar&logoColor=white"/>
-        <br><sub>Industry Leadership</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Team-50%2B-9C27B0?style=for-the-badge&logo=users&logoColor=white"/>
-        <br><sub>Expert Professionals</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🏆 Industries We Serve
 
 <div align="center">
