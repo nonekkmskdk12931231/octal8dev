@@ -53,9 +53,8 @@ Octal includes the ODT [octal developer team], which in turn includes specialist
 
 ---
 
-## 🛠️ Technology Stack
-
 <div align="center">
+  <h1>Technology Stack</h1>
   <table width="100%">
     <tr>
       <th colspan="5">Frontend Technologies</th>
